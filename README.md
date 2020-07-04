@@ -13,3 +13,6 @@
 
 - #### YouTube channel
 https://www.youtube.com/channel/UCKMEXL-ucbjO08Siv43NbmA?view_as=subscriber
+
+- ### Discord 
+     https://discord.gg/3uQfB53
