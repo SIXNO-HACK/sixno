@@ -9,8 +9,7 @@
 - #### chmod +x smsbot
 - #### python smsbot
 - #### ScreenShot
-<img src="https://sv1.picz.in.th/images/2020/07/04/5xabd0.jpg" alt="5xabd0.jpg" border="0" />
-
+<a href="https://www.picz.in.th/image/5xabd0"><img src="https://sv1.picz.in.th/images/2020/07/04/5xabd0.jpg" alt="5xabd0.jpg" border="0" /></a>
 
 - #### YouTube channel
 https://www.youtube.com/channel/UCKMEXL-ucbjO08Siv43NbmA?view_as=subscriber
