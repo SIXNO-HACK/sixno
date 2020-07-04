@@ -22,9 +22,9 @@ def banner():
 ┣━━┣┃┃┳┛┗┫┃┃┃┃┃
 ┗━━┻━━┻┛┗┻┻━┻━┛
 
-[👽]ต้องใส่รหัสประเทศทุกครั้ง/Must enter the country code every time
-[👽]Facebook:https://www.facebook.com/xyuioert.20
-[👽]Github:https://github.com/dffgrockgamerch00123
+[👽]ต้องใส่รหัสประเทศทุกครั้ง / Must enter the country code every time
+[👽]Facebook : https://www.facebook.com/xyuioert.20
+[👽]Github : https://github.com/dffgrockgamerch00123
     """
     clrs = print(c_color+logo+W)
 
